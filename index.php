@@ -85,7 +85,7 @@
         if ($data) {
             // Display additional row for iterrate, devices, solutions
             echo "<table class='table mt-4'>";
-            echo "<tr><th>&#x2622; Iterrates (Hashrate)</th><th>&#x2692; Devices</th><th>&#9745; Solutions</h6></th></tr>";
+            echo "<tr><th>&#x2622; Iterrates (Hashrate)</th><th>&#x2692; Devices</th><th>&#9745; Total Solutions</h6></th></tr>";
             echo "<tr>";
             echo "<td>{$data['iterrate']}</td>";
             echo "<td>{$data['devices']}</td>";
