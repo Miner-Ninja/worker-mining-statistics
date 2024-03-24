@@ -63,9 +63,8 @@
 <body>
 
 <h1>Pooltemp.Qubic.Solutions - Workers mining statistics</h1>
-<h4>You can buy me a coffee or beer by donating some QUBIC or USDT to support this page :)</h4>
-<h5>QUBIC: AAIGFEWABOFCNDCFJUOMMAYMVNUCLQWMYQQIDYYFSFQMJTRAIXJEDTTEJHDI</h5>
-<h5>USDT(TRC20): TUP3DQipQoE1p7eJKHA6xnDJ9eNWu48JzP</h5>
+<h5>This page shows statistics only for the last EP.</h5>
+<h5>All statistics will be reset with each new EP.</h5>
 
 <div class="container mt-5">
     <form method="get" class="form-inline">
