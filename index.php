@@ -64,7 +64,6 @@
 
 <h1>Pooltemp.Qubic.Solutions - Workers mining statistics</h1>
 <h5>This page shows statistics only for the last EP.</h5>
-<h5>All statistics will be reset with each new EP.</h5>
 
 <div class="container mt-5">
     <form method="get" class="form-inline">
